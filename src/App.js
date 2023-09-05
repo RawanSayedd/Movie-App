@@ -5,7 +5,7 @@ import MovieCard from "./MovieCard";
 // API Key c39bcddf
 // Now we need to call this API to get all data we need about our movies
 // first, we will create static variable
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=c39bcddf";
+const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=c39bcddf";
 // now we want to fetch the data of that API as soon as our component loads
 // so we need to use the useEffect Hook
 // const movie1 = {
